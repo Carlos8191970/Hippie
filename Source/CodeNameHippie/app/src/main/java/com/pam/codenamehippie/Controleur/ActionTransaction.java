@@ -5,7 +5,7 @@ import com.pam.codenamehippie.modele.*;
 import java.util.Date;
 
 /**
- * Created by Utilisateur on 2015-12-08.
+ * Created by Carl St-Louis le 2015-12-08.
  */
 public class ActionTransaction {
 
